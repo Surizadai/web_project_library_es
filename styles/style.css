@@ -122,10 +122,10 @@
   display: flex;
   flex-wrap: wrap;
   max-width: 760px;
-  gap: 40px;
+  gap: 40px 40px;
   list-style-type: none;
-  justify-content: space-between;
-  padding: 0;
+  justify-content: center;
+  padding left: 0;
   margin: 68px auto 0;
 }
 .card {
