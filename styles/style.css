@@ -20,7 +20,6 @@
 }
 
 .nav {
-  /* Agrega las propiedades flex aquí */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -33,7 +32,6 @@
 }
 
 .nav__links {
-  /* Restablece los estilos predeterminados de list aquí */
   margin: 8px 0 0;
   display: flex;
   justify-content: flex-end;
